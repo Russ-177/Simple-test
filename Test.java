@@ -16,12 +16,8 @@ import java.util.Scanner;
                 val1 = q1.nextInt();
             }
             System.out.println("Правильно");
-            /*return quest2;*/
 
-
-            /*public  void  quest2(){*/
-
-            /*Scanner q2 = new Scanner(System.in);*/
+                     
             System.out.println("Вопрос №2");
             System.out.println("Что вдохновило Ньютона на открытие классической теории тяготения?");
             System.out.println("1.яблоко");
